@@ -14,8 +14,8 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg"/>
 
-<!-- Corrected iTunes category structure -->
-<itunes:category text="Religion & Spirituality">
+<!-- FIXED: Escaped "&" in category -->
+<itunes:category text="Religion &amp; Spirituality">
     <itunes:category text="Christianity"/>
 </itunes:category>
 
