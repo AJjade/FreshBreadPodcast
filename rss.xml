@@ -13,10 +13,8 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg"/>
-
-<!-- FIXED CATEGORY -->
 <itunes:category text="Religion & Spirituality">
-    <itunes:category text="Christianity"/>
+  <itunes:category text="Christianity"/>
 </itunes:category>
 
 <image>
