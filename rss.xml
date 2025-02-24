@@ -14,6 +14,11 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg"/>
 
+<!-- Required iTunes category -->
+<itunes:category text="Religion & Spirituality">
+  <itunes:category text="Christianity"/>
+</itunes:category>
+
 <image>
   <url>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg</url>
   <title>Fresh Bread Podcast</title>
