@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-
 <title>Fresh Bread Podcast</title>
 <link>https://github.com/AJjade/FreshBreadPodcast</link>
 <description>Fresh Bread episodes in audio format.</description>
 <language>en-us</language>
 
-<!-- iTunes Metadata -->
+<!-- iTunes-specific metadata -->
 <itunes:author>R CHRISTOPHER ARULANAND</itunes:author>
 <itunes:owner>
   <itunes:name>R CHRISTOPHER ARULANAND</itunes:name>
@@ -15,37 +13,32 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg"/>
-
-<!-- Corrected Category -->
 <itunes:category text="Religion & Spirituality">
   <itunes:category text="Christianity"/>
 </itunes:category>
 
-<!-- Podcast Cover Art -->
 <image>
   <url>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg</url>
   <title>Fresh Bread Podcast</title>
   <link>https://github.com/AJjade/FreshBreadPodcast</link>
 </image>
 
-<!-- First Podcast Episode -->
 <item>
   <title>Fresh Bread - Can you stand for the truth like Elijah did? - February 20</title>
-  <description>The Bible is not a cake for special occasions but fresh bread for daily consumption!</description>
-  <link>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Can%20you%20stand%20for%20the%20truth%20like%20Elijah%20did%20-%20February%2020%20-%202025-02-20.mp3</link>
-  <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Can%20you%20stand%20for%20the%20truth%20like%20Elijah%20did%20-%20February%2020%20-%202025-02-20.mp3</guid>
+  <description>jesus #dailydevotional #dailydevotion The Bible is not a cake for special occasions but fresh bread for daily consumption! Prophet ...</description>
+  <link>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Can you stand for the truth like Elijah did - February 20 - 2025-02-20.mp3</link>
+  <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Can you stand for the truth like Elijah did - February 20 - 2025-02-20.mp3</guid>
   <pubDate>Thu, 20 Feb 2025 08:39:45 GMT</pubDate>
-  <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Can%20you%20stand%20for%20the%20truth%20like%20Elijah%20did%20-%20February%2020%20-%202025-02-20.mp3" type="audio/mpeg" length="12345678"/>
+  <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Can you stand for the truth like Elijah did - February 20 - 2025-02-20.mp3" type="audio/mpeg" length="12345678"/>
 </item>
 
-<!-- Second Podcast Episode -->
 <item>
   <title>Fresh Bread - Refocus on God and Resume living for Him - February 24</title>
-  <description>The Bible is not a cake for special occasions but fresh bread for daily consumption!</description>
-  <link>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Refocus%20on%20God%20and%20Resume%20living%20for%20Him%20-%20February%2024%20-%202025-02-24.mp3</link>
-  <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Refocus%20on%20God%20and%20Resume%20living%20for%20Him%20-%20February%2024%20-%202025-02-24.mp3</guid>
+  <description>jesus #dailydevotional #dailydevotion The Bible is not a cake for special occasions but fresh bread for daily consumption! Prophet ...</description>
+  <link>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Refocus on God and Resume living for Him - February 24 - 2025-02-24.mp3</link>
+  <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Refocus on God and Resume living for Him - February 24 - 2025-02-24.mp3</guid>
   <pubDate>Mon, 24 Feb 2025 22:07:38 GMT</pubDate>
-  <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh%20Bread%20-%20Refocus%20on%20God%20and%20Resume%20living%20for%20Him%20-%20February%2024%20-%202025-02-24.mp3" type="audio/mpeg" length="12345678"/>
+  <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Refocus on God and Resume living for Him - February 24 - 2025-02-24.mp3" type="audio/mpeg" length="12345678"/>
 </item>
 
 </channel>
