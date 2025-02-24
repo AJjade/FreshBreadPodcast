@@ -1,9 +1,18 @@
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Fresh Bread Podcast</title>
 <link>https://github.com/AJjade/FreshBreadPodcast</link>
 <description>Fresh Bread episodes in audio format.</description>
 <language>en-us</language>
+
+<!-- iTunes-specific metadata -->
+<itunes:author>R CHRISTOPHER ARULANAND</itunes:author>
+<itunes:owner>
+  <itunes:name>R CHRISTOPHER ARULANAND</itunes:name>
+  <itunes:email>aruljudah17@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg"/>
 
 <image>
   <url>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/cover_art.jpg</url>
@@ -31,3 +40,4 @@
 
 </channel>
 </rss>
+
