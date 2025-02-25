@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Fresh Bread Podcast</title>
@@ -41,6 +42,15 @@
   <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Refocus on God and Resume living for Him - February 24 - 2025-02-24.mp3</guid>
   <pubDate>Mon, 24 Feb 2025 22:07:38 GMT</pubDate>
   <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Refocus on God and Resume living for Him - February 24 - 2025-02-24.mp3" type="audio/mpeg" length="12345678"/>
+</item>
+
+<item>
+  <title>Fresh Bread - Ushering marvelous light in the place of spiritual darkness - February 25</title>
+  <description>jesus #dailydevotional #dailydevotion The Bible is not a cake for special occasions but fresh bread for daily consumption! Prophet ...</description>
+  <link>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Ushering marvelous light in the place of spiritual darkness - February 25 - 2025-02-25.mp3</link>
+  <guid>https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Ushering marvelous light in the place of spiritual darkness - February 25 - 2025-02-25.mp3</guid>
+  <pubDate>Tue, 25 Feb 2025 07:54:34 GMT</pubDate>
+  <enclosure url="https://raw.githubusercontent.com/AJjade/FreshBreadPodcast/main/downloads/Fresh Bread - Ushering marvelous light in the place of spiritual darkness - February 25 - 2025-02-25.mp3" type="audio/mpeg"/>
 </item>
 
 </channel>
